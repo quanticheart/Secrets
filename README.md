@@ -1,6 +1,4 @@
-#### Simple Spotless implementation
-
-##### Tutorials
+#### Simple Google secrets-gradle-plugin implementation
 
 [Oficial Doc](https://github.com/google/secrets-gradle-plugin)
 
